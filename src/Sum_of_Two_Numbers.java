@@ -10,6 +10,9 @@ public class Sum_of_Two_Numbers {
 			System.out.println("Enter B:");
 			b = sc.nextInt();
 		}
-		System.out.println("SUM A+B:" + (a + b));
+		System.out.println("SUM OF A+B: " + (a + b));
+		System.out.println("MINUS OF A-B: " + (a - b));
+		System.out.println("PRODUCT OF A*B: " + (a * b));
+		System.out.println("DIVISION OF A/B: " + (a / b));
 	}
 }
