@@ -4,3 +4,4 @@
 3. Reverse String 
 4. Facotial
 5. Bubble_Sort
+6. Binary_Search
