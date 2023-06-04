@@ -5,3 +5,4 @@
 4. Facotial
 5. Bubble_Sort
 6. Binary_Search
+7. Armstrong Number
